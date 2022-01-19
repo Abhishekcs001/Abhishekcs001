@@ -6,6 +6,7 @@
 
 
 
-<div>
-  <img src="./github-user-contribution.svg" alt="snake"></center>
+<!-- <div>
+  <img src="./github-user-contribution.svg" alt="snake">
 </div>
+ -->
