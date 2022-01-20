@@ -3,13 +3,8 @@
 
 
 ![snake gif](https://github.com/Abhishekcs001/Abhishekcs001/blob/output/github-contribution-grid-snake.svg)
-
-
-<p align="center">
-    <a href="https://github.com/Abhishekcs001/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekcs001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+ 
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishekcs001&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 ## 📊 My Github Stats
   <br/>
