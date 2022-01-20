@@ -3,5 +3,8 @@
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishekcs001&theme=github_dark)
+
+
 
 ![snake gif](https://github.com/Abhishekcs001/Abhishekcs001/blob/output/github-contribution-grid-snake.gif)
