@@ -2,10 +2,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
 
 
+
+
 ![snake gif](https://github.com/Abhishekcs001/Abhishekcs001/blob/output/github-contribution-grid-snake.gif)
-
-
-<!-- <div>
-  <img src="./github-user-contribution.svg" alt="snake">
-</div>
- -->
