@@ -11,14 +11,10 @@
     </a>
 </p>
 
-
 ## 📊 My Github Stats
   <br/>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishekcs001&theme=github_dark)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcs001&langs_count=8)](https://github.com/Abhishekcs001/github-readme-stats)
- -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishekcs001&theme=github_dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcs001&langs_count=8&theme=github_dark)](https://github.com/Abhishekcs001/github-readme-stats)
 
 <br/>
 <br/>
