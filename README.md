@@ -1,4 +1,6 @@
+ <p align="center">
  <a href="#"><img width="100%" height="auto" src="./undraw_hello_re_3evm.svg" height="175px"/></a>
+ </p>
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
  <p align="center">
  <img alt="snake_gif" src="https://github.com/Abhishekcs001/Abhishekcs001/blob/output/github-contribution-grid-snake.svg">
@@ -13,10 +15,10 @@
  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishekcs001&theme=github_dark">
  </p>
  <br/>
-  <p align="center">
+<!--   <p align="center">
  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcs001&langs_count=8&theme=github_dark">
  </p>
- <br/>
+ <br/> -->
  <p align="center">
  <img alt="GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=Abhishekcs001&theme=react-dark">
  </p>
