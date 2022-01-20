@@ -16,12 +16,21 @@
  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishekcs001&theme=github_dark">
  </p>
  <br/>
+ 
  <!--   <p align="center">
  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcs001&langs_count=8&theme=github_dark">
  </p>
  <br/> -->
+<!--    <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  
  <p align="center">
  <img alt="GitHub Stats" src="https://activity-graph.herokuapp.com/graph?username=Abhishekcs001&theme=react-dark">
  </p>
 <br/>
 
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/abhishekcs001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_abhi_singh.001/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
