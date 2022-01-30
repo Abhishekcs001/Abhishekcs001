@@ -23,7 +23,7 @@
  <br/>
  
  <p align="center">
- <img alt="Abhishek's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcs001&langs_count=7&theme=github_dark" width="45%">
+ <img alt="Abhishek's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcs001&langs_count=5&theme=github_dark" width="51%">
  </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
    <br/> 
